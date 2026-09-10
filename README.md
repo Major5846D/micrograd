@@ -1,1 +1,1 @@
-# microgrid
+# micrograd
